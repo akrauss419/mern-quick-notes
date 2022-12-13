@@ -1,0 +1,15 @@
+.NoteForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4vmin;
+}
+
+.Input {
+  height: 25vmin;
+}
+
+.AddNote {
+  width: 35vmin;
+}
