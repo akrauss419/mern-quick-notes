@@ -8,6 +8,8 @@
 
 .Input {
   height: 25vmin;
+  width: 50vmin;
+  border: 0.5vmin solid red;
 }
 
 .AddNote {

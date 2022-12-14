@@ -1,0 +1,31 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+
+.Note {
+  height: 20vmin;
+  width: 100vmin;
+  border: 1vmin solid black;
+  margin-bottom: 3vmin;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+
+.Content {
+  margin-top: 1.5vmin;
+}
+
+.Timestamp {
+  font-size: 2vmin;
+  font-weight: bold;
+}
+
+.Label {
+  color: red;
+  font-weight: bolder;
+}
